@@ -1,2 +1,2 @@
 # IEOR4570
-code from Data Mining course
+my attempts at implementing the stuff I learn in the Data Mining course.
